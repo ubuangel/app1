@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //creamos una instancia perteneciente a texview
         //clase context ,clase activity hereda de context (por el principio de es un)
-
+//comentarios
         //context
         //activity
         //appConpatActivity
